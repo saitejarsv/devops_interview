@@ -1,0 +1,20 @@
+1. What is Jenkins
+2. What is the difference between Jenkins and Hudson
+3. What SCM tools does Jenkins support
+4. How can you tell what version of Jenkins you are using?
+5. What is continuous integration in Jenkins
+6. What are the pre-requisites for using Jenkins
+7. How can you move or copy Jenkins from one server to another server
+8. Commands to use to start Jenkins manually
+9. What are the most useful plugins in Jenkins
+10. How to create a Jenkins job and what are the types
+11. What are the two components that Jenkins mainly integrate with?
+12. What is the default session timeout value in Jenkins and How can you increase the session timeout value?
+13. Explain about Jenkins security mechanism
+14. How can you pass parameters from one job to another job in Jenkins?
+15. Explain about build pipeline in Jenkins
+16. How can someone execute the jobs in Jenkins without having permissions to execute the job?
+17. How to re-execute a parameterized build job without entering the parameter values when the job fails? Note:- Job should not ask for parameters and it should run with the values of parameters that you entered during previous execution
+18. How to install plugins in Jenkins
+19. How can configure slaves/nodes in Jenkins
+20. How to run jobs in slaves
